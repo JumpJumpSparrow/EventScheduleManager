@@ -80,6 +80,7 @@
 }
 
 
+#pragma mark - 队列管理的事件，如果是网络事件，需要在网络 response 内回调
 
 - (void)ProductBasicInfo{
     
